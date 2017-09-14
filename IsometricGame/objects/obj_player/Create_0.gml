@@ -9,6 +9,7 @@ vspd = 0;
 len = 0;
 xaxis = 0;
 yaxis = 0;
+dir = 0;
 image_speed = 0;
 depth = -10;
 state = scr_move_state;
