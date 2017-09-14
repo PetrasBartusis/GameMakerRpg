@@ -5,46 +5,6 @@
     "name": "obj_player",
     "eventList": [
         {
-            "id": "340518d8-9beb-49ae-a846-2614ff507528",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 39,
-            "eventtype": 5,
-            "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
-        },
-        {
-            "id": "22a5f5ab-ad81-4bc4-bc4e-07a9ecba2279",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 37,
-            "eventtype": 5,
-            "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
-        },
-        {
-            "id": "8e98c0a6-00d6-4b9d-8167-ea1cb1e83042",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-            "eventtype": 5,
-            "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
-        },
-        {
-            "id": "df023d8b-a22f-40b9-ad17-8ff9593c7d23",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 40,
-            "eventtype": 5,
-            "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
-        },
-        {
             "id": "eb956976-cc77-4cc2-a61f-3bd0754ee6dc",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -62,6 +22,16 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
+        },
+        {
+            "id": "ef3b743b-e065-4f66-9089-d72f1ddd503d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
             "m_owner": "67753049-03c5-45bb-8c9b-25756c2be3ec"
         }
     ],
