@@ -9,6 +9,13 @@ if(dash_key){
 	alarm[0] = room_speed/6;
 }
 
+//check if player is dashing
+if(attack_key){
+	//start attack animation from the start
+	image_index = 0;
+	state = scr_attack_state;
+}
+
 // Get direction
 dir = point_direction(0, 0, xaxis, yaxis);
 
