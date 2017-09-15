@@ -14,6 +14,7 @@ dir = 0;
 image_speed = 0;
 state = scr_move_state;
 attacked = false;
+face = RIGHT;
 
 //call script for player control
 scr_get_input();
